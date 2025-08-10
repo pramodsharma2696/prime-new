@@ -18,7 +18,7 @@
         <ul>
           <li>
             <div class="tradingbox">
-              <a href="https://dashboard.mazifinance.com/login">
+              <a href="https://cp.theprimelimited.com/login">
                 <strong
                   >Start<br />
                   trading</strong
@@ -289,7 +289,7 @@
             >
             <a
               class="btn borderbtn"
-              href="https://dashboard.mazifinance.com/login"
+              href="https://cp.theprimelimited.com/login"
               >Sign-in</a
             >
           </div>
@@ -398,7 +398,7 @@
             </li>
             <li>
               <div class="startbox">
-                <a href="https://dashboard.mazifinance.com/login"
+                <a href="https://cp.theprimelimited.com/login"
                   ><strong>Start trading</strong></a
                 >
               </div>
