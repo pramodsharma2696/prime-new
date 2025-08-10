@@ -34,8 +34,8 @@
                   </ul>
                 </li>
                 <li><a href="{{url ('/contact') }}">Contact Us</a></li>
-                 <li><a class="btn borderbtn" href="https://dashboard.mazifinance.com/login">Open Demo Account</a></li>
-                 <li><a class="btn borderbtn" href="https://dashboard.mazifinance.com/login">Open Live Account</a></li>
+                 <li><a class="btn borderbtn" href="https://cp.theprimelimited.com/login">Client Login</a></li>
+                 <li><a class="btn borderbtn" href="https://cp.theprimelimited.com/login?ibLogin=true">IB Login</a></li>
               </ul>
             </nav>
           </div>
