@@ -46,7 +46,7 @@
             <h4>Contact Us</h4>
             <ul>
               <li><a href="{{ url('/about-us') }}">About us</a></li>
-              <li><a href="{{ url('/contact') }}">Contact us</a></li>
+              <!-- <li><a href="{{ url('/contact') }}">Contact us</a></li> -->
              
             </ul>
           </div>

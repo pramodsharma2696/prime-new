@@ -33,7 +33,7 @@
                     <li><a href="{{ url('/account') }}">Prime Account</a></li>
                   </ul>
                 </li>
-                <li><a href="{{url ('/contact') }}">Contact Us</a></li>
+                <!-- <li><a href="{{url ('/contact') }}">Contact Us</a></li> -->
                  <li><a class="btn borderbtn" href="https://cp.theprimelimited.com/login">Client Login</a></li>
                  <li><a class="btn borderbtn" href="https://cp.theprimelimited.com/login?ibLogin=true">IB Login</a></li>
               </ul>
