@@ -3,7 +3,7 @@
 <div class="homebanner">
       <div class="container">
         <div class="banner-content">
-          <h1>Make Every Trade Count with <br />with <strong>The Prime Limited</strong></h1>
+          <h1>Make Every Trade Count with <br /><strong>The Prime Limited</strong></h1>
           <p>
            Whether you are into Forex, Commodities, Stocks, Indices or Digital Assets, we've got you covered.
           </p>
