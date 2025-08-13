@@ -367,8 +367,7 @@
             <span>3</span>
             <h3>Start trading</h3>
             <p>
-              Log in and Start trading more than 500 instruments with
-              spreads starting from 0.0 pips.
+              Kickstart your trading journey and gain the edge with ultra-low spreads
             </p>
           </div>
         </li>
